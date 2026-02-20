@@ -1,4 +1,4 @@
-![Hi](<giphy(1).gif>)
+![Hi](<giphy (1).gif>)
 
 #
 #  ⚡(⧗)Luka_sakan:
