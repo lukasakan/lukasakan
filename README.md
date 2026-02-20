@@ -1,3 +1,4 @@
+![Hi](<giphy(1).png>)
 #  ⚡(⧗)Luka_sakan:
 Hey there, I'm Luka, an Information Technology student at BTU and a beginner dev here at GitHub. <br>I strive to be a programmer. I usually program in Python, but I also know C#(on a starter level)  and C++(barely, I only know the basics).<br>My other interests are watching movies,legos and making projects.
 #
