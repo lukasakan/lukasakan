@@ -2,7 +2,7 @@
 
 #
 #  ⚡(⧗)Luka_sakan:
-Hey there, I'm Luka, an Information Technology student at BTU and a beginner dev here at GitHub. <br>I strive to be a programmer. I usually program in Python, but I also know C#(on a starter level)  and C++(barely, I only know the basics).<br>My other interests are watching movies,legos and making projects.
+Hey there, I'm Luka, an Information Technology student at BTU and a beginner dev here at GitHub. <br>I strive to be a programmer. I usually program in Python, but I also know C#(on a starter level)  and C++(barely; I only know the basics).<br>My other interests are watching movies, legos and making projects.
 #
 
 ## 🌐 Socials:
@@ -29,7 +29,7 @@ Hey there, I'm Luka, an Information Technology student at BTU and a beginner dev
 ![](https://nirzak-streak-stats.vercel.app/?user=lukasakan&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasakan&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 #
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=lukasakan&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
